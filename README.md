@@ -1,0 +1,1 @@
+# PetekTemizlemeAraci_Otomasyonu
