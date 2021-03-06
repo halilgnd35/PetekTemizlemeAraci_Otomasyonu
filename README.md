@@ -1,7 +1,7 @@
 # PetekTemizlemeAraci_Otomasyonu
 Hali hazırda bir tuşla çalışan ve bu tuşa belirli aralıklarda belirli sayıda tekrar tekrar basmayı gerektiren kombi petek temizleme cihazına kendi yaptığım arduino nano, röle, buzzer, led gibi componentlerden oluşan bir kartın yardımıyla can veren kodlar aşağıdadır.Burada can vermekten kasıt gerekli bağlantılar yapıldıktan sonra cihazın gerekli sürede gerekli tekrarda kendi kendine çalışan yani otomatik bir tuş görevi görmesidir.İşini bitirdikten sonra ise buzzer ve led yardımıyla geri bildirim vermektedir.
-------------------------------Kodlar------------------------------
 ```javascript
+------------------------------Kodlar------------------------------
 //Author:Halil Gundogdu
 #define dongu 6
 #define role_pin 3
